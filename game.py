@@ -4,7 +4,7 @@ import game_env
 import game_string
 import json
 import os
-#test
+
 player1 = {
 
     'Ability' : {
